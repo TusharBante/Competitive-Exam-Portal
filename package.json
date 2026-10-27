@@ -1,0 +1,15 @@
+{
+  "name": "competitive-exam-portal-root",
+  "version": "1.0.0",
+  "description": "Full-Stack Competitive Exam Preparation Portal (MERN)",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "test:server": "cd server && npm test",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": ["mern", "exam-portal", "mock-tests", "react", "nodejs"],
+  "author": "Antigravity",
+  "license": "MIT"
+}
